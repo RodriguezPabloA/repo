@@ -43,3 +43,4 @@ creamos una rama de nombre main: git branch -M main/
 finalmente le hacemos el push : git push -u origin main/nos pedira usuario y contraseña para confirmar
 
 */
+console.log('hola me falto este mensaje');
